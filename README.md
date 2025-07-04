@@ -12,7 +12,7 @@ An Android To-Do application developed using **Java** and **Android Studio**. Th
 
 - ## 🔽 Download
 
-Click the link below to download the .exe file:
+Click the link below to download the .apk: 
 
 [![Download](images/download.jpeg)](https://drive.google.com/file/d/1LUoANnzNiplAu57pS7Hkrwj4WoYy_1t8/view?usp=sharing)
 
