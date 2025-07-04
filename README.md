@@ -10,6 +10,12 @@ An Android To-Do application developed using **Java** and **Android Studio**. Th
 - 💾 Local storage using Shared Preference
 - 🌓 Clean UI and responsive layout
 
+- ## 🔽 Download
+
+Click the link below to download the .exe file:
+
+[![Download](images/download.jpeg)](https://drive.google.com/file/d/1LUoANnzNiplAu57pS7Hkrwj4WoYy_1t8/view?usp=sharing)
+
 ## 📸 Screenshots
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/dashboard.jpg" alt="Dashboard" width="200" height="400"/>
