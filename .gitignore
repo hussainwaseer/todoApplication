@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keystore files
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Android Studio
+.cxx/
+.externalNativeBuild/
+
+# Misc
+*.apk
+*.ap_
+
+# Ignore crashlytics and firebase stuff (if any)
+fabric.properties
+crashlytics-build.properties
